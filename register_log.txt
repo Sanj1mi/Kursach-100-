@@ -1,0 +1,8 @@
+New user registered: ID=837780, Login=TestUser
+New user registered: ID=120892, Login=TestUser1
+New user registered: ID=403435, Login=test
+New user registered: ID=882033, Login=user
+New user registered: ID=468690, Login=kissune
+New user registered: ID=625701, Login=DenisSosetXyi
+New user registered: ID=922828, Login=user2
+New user registered: ID=253491, Login=user3

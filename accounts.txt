@@ -1,0 +1,4 @@
+ID:13|Login:kissune|Password:33208ef0|Salt:WqnFXHcLTh1eHlIo|Role:1|Mess:
+ID:882033|Login:user|Password:7638acee|Salt:c82gwpcVo5bYVAot|Role:0|Mess:
+ID:922828|Login:user2|Password:8bc46fec|Salt:XdS5wB6OmTAveG7c|Role:0|Mess:
+ID:253491|Login:user3|Password:8e88ec62|Salt:KVQXgZ98VYm5QOA0|Role:0|Mess:

@@ -1,0 +1,6 @@
+870928|bombardiro|crocodilo|28.02.2023|1
+886031|bobrito|bandito|30.06.2003|1
+959827|tralalelo|tralala|12.04.2025|2.23
+743978|tungtung|sahur|14.03.2022|4.43
+187816|balerino|capucchio|24.11.2019|1.11
+323205|shpioniro|golubiro|31.10.2002|1.1234
